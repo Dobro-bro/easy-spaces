@@ -4,7 +4,6 @@
 
 ![easy-spaces-logo](easy-spaces-logo.png)
 
-
 [![CircleCI](https://circleci.com/gh/trailheadapps/easy-spaces/tree/master.svg?style=svg)](https://circleci.com/gh/trailheadapps/easy-spaces/tree/master)
 
 Easy Spaces is a fictional event management company that creates and manages custom pop-up spaces for companies and individuals. Easy Spaces helps customers create temporary spaces like cafés, game rooms or themed rooms for special occasions in their offices and homes.
