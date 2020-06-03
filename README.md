@@ -2,7 +2,6 @@
 
 > IMPORTANT: This is the Aura version off the Easy Spaces sample application. If you are looking for the new Lightning Web Components version, click [here](https://github.com/trailheadapps/easy-spaces-lwc).
 
-
 ![easy-spaces-logo](easy-spaces-logo.png)
 
 [![CircleCI](https://circleci.com/gh/trailheadapps/easy-spaces/tree/master.svg?style=svg)](https://circleci.com/gh/trailheadapps/easy-spaces/tree/master)
